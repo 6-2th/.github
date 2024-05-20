@@ -1,7 +1,7 @@
 # Computer-Science / Coding-Test
 
-> ### Prepare CS Interviews and Coding Test.
-> CS 면접과 Coding Test를 준비합니다. 
+> ### Prepare Computer Science Interview and Coding Test
+> Computer Science 면접과 Coding Test를 준비합니다. 
 
 <br>
 
