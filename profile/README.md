@@ -41,7 +41,7 @@
 <br>
 
 ## 🚀 goal
-> - Pass the Coding Test ! 
-> - Share the Solution Method
-> - Pass the CS Interview !
-> - CS Knowledge Sharing
+> Pass the Coding Test ! <br>
+> Share the Solution Method <br>
+> Pass the CS Interview ! <br>
+> CS Knowledge Sharing
