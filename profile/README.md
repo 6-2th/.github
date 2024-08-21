@@ -1,4 +1,4 @@
-# Computer-Science / Coding-Test
+# Computer Science and Coding Test
 
 > ### Prepare Computer Science Interview and Coding Test
 > Computer Science 면접과 Coding Test를 준비합니다. 
